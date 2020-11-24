@@ -1,4 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills.
 ## ATTRIBUTES
 - [x] Hardworking
 - [x] Truthful
@@ -20,6 +19,8 @@ Write out some of your awesome attributes, and use emphasis (like bold or italic
   - Vue
   - papers
 * C
-
+ 
+**Note**:
+> I code with phone, I've got no money to get a system. I wouldn't mind anyone helping me :heart: (Really eager to dive deep into programming).
   
 
