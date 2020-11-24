@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Things I enjoyed doing most:
+* Learning new things
+  * Programming
+  * Mathematics
+* Reading novels
+* Watching movies
